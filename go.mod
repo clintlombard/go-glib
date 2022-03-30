@@ -1,4 +1,4 @@
-module github.com/tinyzimmer/go-glib
+module github.com/clintlombard/go-glib
 
 go 1.16
 
